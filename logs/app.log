@@ -1,0 +1,31 @@
+2024-09-20 12:45:09.322 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - chromeBrowser
+2024-09-20 12:45:12.694 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - username entered
+2024-09-20 12:45:12.842 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - password entered
+2024-09-20 12:45:14.251 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - Login button pressed
+2024-09-26 11:30:18.627 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - chromeBrowser
+2024-09-26 11:30:22.254 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - username entered
+2024-09-26 11:30:22.346 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - password entered
+2024-09-26 11:30:23.890 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - Login button pressed
+2024-09-26 11:30:24.189 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - customer link clicked
+2024-09-26 11:37:32.391 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - chromeBrowser
+2024-09-26 11:37:36.068 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - username entered
+2024-09-26 11:37:36.163 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - password entered
+2024-09-26 11:37:37.969 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - Login button pressed
+2024-09-26 11:37:38.258 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - customer link clicked
+2024-09-26 11:37:40.232 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - email: bzAPz@gmail.com
+2024-09-26 11:37:40.310 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - pass: Xk5HWTCi
+2024-09-26 11:41:35.513 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - chromeBrowser
+2024-09-26 11:41:39.020 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - username entered
+2024-09-26 11:41:39.126 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - password entered
+2024-09-26 11:41:40.828 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - Login button pressed
+2024-09-26 11:41:41.141 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - customer link clicked
+2024-09-26 11:41:43.122 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - email: hxgUZ@gmail.com
+2024-09-26 11:41:43.229 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - pass: AWc7lxbR
+2024-09-26 11:41:48.466 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - test case passed....
+2024-09-26 11:44:44.493 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - chromeBrowser
+2024-09-26 11:44:48.090 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - username entered
+2024-09-26 11:44:48.186 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - password entered
+2024-09-26 11:44:50.074 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - Login button pressed
+2024-09-26 11:44:50.395 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - customer link clicked
+2024-09-26 11:44:52.351 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - email: rGUvq@gmail.com
+2024-09-26 11:44:52.445 [main] INFO  com.inetBanking.testCases.TC_AddNewCustomer_001 - pass: NcVs40X5
